@@ -1,0 +1,12 @@
+[
+  {
+    "question": "What is the capital of France?",
+    "possibleAnswers": ["Paris", "London", "Berlin"],
+    "correctAnswer": 0
+  },
+  {
+    "question": "What is the capital of Germany?",
+    "possibleAnswers": ["Paris", "London", "Berlin"],
+    "correctAnswer": 2
+  }
+]
